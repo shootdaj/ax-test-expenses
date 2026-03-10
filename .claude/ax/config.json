@@ -41,12 +41,24 @@
       "title": "Core API & Categories",
       "started_at": "2026-03-10T07:50:00Z",
       "completed_at": "2026-03-10T08:10:00Z"
+    },
+    {
+      "phase": 2,
+      "title": "Budgets, Recurring & Summaries",
+      "started_at": "2026-03-10T08:10:00Z",
+      "completed_at": "2026-03-10T08:30:00Z"
+    },
+    {
+      "phase": 3,
+      "title": "Dashboard & Frontend",
+      "started_at": "2026-03-10T08:30:00Z",
+      "completed_at": "2026-03-10T08:50:00Z"
     }
   ],
   "milestone_history": [],
   "last_commands": {
     "init": "2026-03-10T07:45:00Z",
-    "phase": "2026-03-10T08:10:00Z",
+    "phase": "2026-03-10T08:50:00Z",
     "run": "2026-03-10T07:50:00Z",
     "finish": null,
     "status": null
